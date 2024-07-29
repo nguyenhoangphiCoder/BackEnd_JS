@@ -1,0 +1,21 @@
+{
+  "name": "backend_js",
+  "version": "1.0.0",
+  "description": "npm install express",
+  "main": "OOP.js",
+  "scripts": {
+    "test": "npm install express --no-save"
+  },
+  "repository": {
+    "type": "git",
+    "url": "nguyenhoangphicoder"
+  },
+  "keywords": [
+    "nguyenhoangphhi"
+  ],
+  "author": "nguyenhoangphi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
